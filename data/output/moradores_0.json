@@ -1,0 +1,1 @@
+[{"telefone":"+351912345678","ativo":1,"nome":"Ana Martins","nif":"123456789","data_registo":"2024-01-10","morador_id":1,"email":"ana.martins@example.com"}]

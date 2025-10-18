@@ -1,0 +1,1 @@
+[{"telefone":"+351913333222","ativo":1,"nome":"Bruno Silva","nif":"987654321","data_registo":"2024-02-15","morador_id":2,"email":"bruno.silva@example.com"}]

@@ -1,0 +1,1 @@
+[{"telefone":"+351914444555","ativo":0,"nome":"Carla Sousa","nif":"192837465","data_registo":"2024-05-20","morador_id":3,"email":"carla.sousa@example.com"}]

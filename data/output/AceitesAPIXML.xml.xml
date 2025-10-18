@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Rows>
+<Row><data>2024/01/10 00:00:00.000</data> <id> 000000000000001</id> <latitude>41.545</latitude> <longitude>-8.426</longitude> <codigo_tempo>61</codigo_tempo> <precipitacao_mm>6.3</precipitacao_mm> <condicao>chuva</condicao></Row>
+<Row><data>2025/10/12 00:00:00.000</data> <id> 000000000000005</id> <latitude>41.545</latitude> <longitude>-8.426</longitude> <codigo_tempo>3</codigo_tempo> <precipitacao_mm>0.0</precipitacao_mm> <condicao>sol</condicao></Row>
+<Row><data>2024/02/15 00:00:00.000</data> <id> 000000000000002</id> <latitude>41.545</latitude> <longitude>-8.426</longitude> <codigo_tempo>65</codigo_tempo> <precipitacao_mm>33.2</precipitacao_mm> <condicao>chuva</condicao></Row>
+<Row><data>2024/05/20 00:00:00.000</data> <id> 000000000000003</id> <latitude>41.545</latitude> <longitude>-8.426</longitude> <codigo_tempo>53</codigo_tempo> <precipitacao_mm>1.3</precipitacao_mm> <condicao>chuvisco</condicao></Row>
+<Row><data>2025/10/11 00:00:00.000</data> <id> 000000000000006</id> <latitude>41.545</latitude> <longitude>-8.426</longitude> <codigo_tempo>1</codigo_tempo> <precipitacao_mm>0.0</precipitacao_mm> <condicao>sol</condicao></Row>
+</Rows>

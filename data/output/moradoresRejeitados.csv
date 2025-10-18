@@ -1,0 +1,3 @@
+morador_id,nome,nif,telefone,nif_valido,telefone_valido
+2,Bruno Silva,987654321      ,+351813333222  ,Y,N
+4,Carla Sousa,               ,+351914444555  ,N,Y

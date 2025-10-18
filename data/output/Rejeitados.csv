@@ -1,0 +1,2 @@
+pagamento_id;morador_id;data_pagamento;valor;metodo_pag;estado;obs;morador_sk
+1011;;2024/10/01 00:00:00.000;50.0;MBWAY               ;pago                ;morador_id em falta                                                                                                                                                                                                                                            ;

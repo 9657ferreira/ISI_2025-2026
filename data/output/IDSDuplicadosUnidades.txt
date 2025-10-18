@@ -1,0 +1,2 @@
+unidade_id;bloco;piso;fracao;area_m2;tipologia;estado;data_registo
+101;A;1;A1-dup;85;T2;ATIVA  ;2023-01-15
