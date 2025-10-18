@@ -341,7 +341,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C:\SAD\pdi-ce-10.2.0.0-222\ISI\data\kettle\transforms\stg_moradores.ktr</filename>
+      <filename>C:\SAD\pdi-ce-10.2.0.0-222\ISI\stg_moradores.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>

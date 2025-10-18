@@ -1,3 +1,5 @@
 morador_id,nome,nif,telefone,nif_valido,telefone_valido
-2,Bruno Silva,987654321      ,+351813333222  ,Y,N
+2,Bruno Silva,987654321      ,+351813333222  ,N,N
 4,Carla Sousa,               ,+351914444555  ,N,Y
+5,Jose Martin,987456123      ,+351913248731  ,N,Y
+6,Jose Martin,987456123      ,+351913248731  ,N,Y
