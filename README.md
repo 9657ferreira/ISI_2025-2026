@@ -9,7 +9,7 @@ Pipeline **ETL** para integração e análise de dados de **moradores**, **pagam
 ## 📦 Stack Técnica
 
 - **Pentaho Data Integration (PDI CE)** 10.2.0.0-222 – Transformações (`*.ktr`) e Jobs (`*.kjb`)
-- **Base de Dados**: PostgreSQL / MySQL / SQLite (suportado por parametrização)
+- **Base de Dados**: PostgreSQL 
 - **Open-Meteo API** – dados meteorológicos diários (JSON)
 - **Grafana (Community)** – dashboards e alertas
 - **Ficheiros de entrada**: `moradores.csv` e `pagamentos.csv`
@@ -186,5 +186,6 @@ Define aqui a tua licença (ex.: MIT).
 - **IPCA — Escola Superior de Tecnologia**  
 - **Professor Luís Ferreira**  
 - Documentação **Pentaho PDI**, **Open-Meteo** e **Grafana**
+
 
 
