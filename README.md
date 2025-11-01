@@ -1,4 +1,4 @@
-# ETL Condo Insights — Integração de Sistemas de Informação
+# ETL - Integração de Sistemas de Informação
 
 Pipeline **ETL** para integração e análise de dados de **moradores**, **pagamentos** e **meteorologia** no contexto de gestão de condomínios, usando **Pentaho PDI**, **base de dados relacional** e **Grafana** para visualização.
 
@@ -186,3 +186,4 @@ Define aqui a tua licença (ex.: MIT).
 - **IPCA — Escola Superior de Tecnologia**  
 - **Professor Luís Ferreira**  
 - Documentação **Pentaho PDI**, **Open-Meteo** e **Grafana**
+
