@@ -1,8 +1,8 @@
-# ETL - Integração de Sistemas de Informação
+# Integração de Sistemas de Informação
 
-Pipeline **ETL** para integração e análise de dados de **moradores**, **pagamentos** e **meteorologia** no contexto de gestão de condomínios, usando **Pentaho PDI**, **base de dados relacional** e **Grafana** para visualização.
+Pipeline **ETL** para integração e análise de dados de **moradores**, **pagamentos** e **meteorologia** no contexto de gestão de condomínios, usando **Pentaho**, **base de dados relacional** e **Grafana** para visualização.
 
-> Projeto desenvolvido para a UC **Integração de Sistemas de Informação (ISI)**. Inclui limpeza/normalização com *regex*, *jobs* de orquestração, integração com API externa (Open-Meteo), exportação **XML**, logging e dashboards.
+> Projeto desenvolvido para a UC **Integração de Sistemas de Informação (ISI)**. Inclui limpeza/normalização com *regex*, *jobs* integração com API externa (Open-Meteo), exportação **XML**, logging e dashboards.
 
 ---
 
@@ -186,4 +186,5 @@ Define aqui a tua licença (ex.: MIT).
 - **IPCA — Escola Superior de Tecnologia**  
 - **Professor Luís Ferreira**  
 - Documentação **Pentaho PDI**, **Open-Meteo** e **Grafana**
+
 
